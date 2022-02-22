@@ -1,0 +1,36 @@
+Dash to Dock (by michele_g) - красивая нижняя панель!
+Appfolders Management extension (by Maestroschan) - ПАПКИ В МЕНЮ !!!
+AppIndicator and KStatusNotifierItem Support (by 3v1n0) - поддержка значков в трее
+TopIconsFix (by aleskva)  - поддержка трея для старых программ (wine)
+NoAnnoyance (by sindex) - удаляет уведомление «Окно готово»
+Alt + Tab only on current workspace (by ErmesonS) - переключает окна без группировки, с возможностью показывать приложения только текущей области
+Remove Alt+Tab Delay v2 (by bjoerndaase) - убирает задержку при нажатии Alt+Tab 
+Printers (by linux-man) - апплет принтеров
+Sound Input & Output Device Chooser (by kgshank) - апплет настройки звука
+Caffeine (by eon) - апплет временного отключения режима ожидания и заставки
+Remove App Menu (by stuarthayhurst) - убирает меню программ в верней панеле
+Remove Dropdown Arrows (by mpdeimos) - удаляет стрелки со значков в в верхнем правом меню
+Removable Drive Menu (by fmuellner) - апплет для показа внешних дисков
+Applications Menu (by fmuellner) - меню программ!
+OpenWeather (by jens) - погода в трее где часы
+------------------------------------------------------------------
+
+Dash to Panel (by charlesg99) - все в нижней панели, как в Windows !!!
+Activities Configurator (by nls1729) - там отключение кнопки "Обзор"
+(-)Tray Icons: Reloaded (by MartinPL) - поддержка трея для java-программ
+(-) AlternateTab (by fmuellner) - переключает окна без группировки, с возможностью показывать приложения только текущей области
+
+WorkspaceBar (by mbokil) - переключает рабочие области вверху экрана
+Frippery Move Clock (by rmyorston) - убирает часы вправо
+SomaFM internet radio (by alireza6677) - SomaFM internet radio
+system-monitor (by Cerin) - апплет монитора ресурсов
+New Mail Indicator (by fthx) - апплет наличия уведомления о новых письмах от почтового клиента
+
+------------------------------------------------------------------
+
+Public IP (by rostegg) - показывает публичный IP
+All IP Addresses (by phavekes) - показывает IP-адреса для LAN, WAN IPv6 и VPN 
+Applications Menu (by fmuellner) - меню приложений на основе категорий  (как в Linux Mint и Windows)
+Dash to Panel (by charlesg99) - панель задач со значками (как в Linux Mint и Windows)
+Extensions (by petres) - апплет включения/отключения расширений 
+Internet Radio (by hslbck) - Internet Radio

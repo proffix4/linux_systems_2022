@@ -1,0 +1,1 @@
+paplay /usr/share/sounds/ubuntu/stereo/desktop-login.ogg

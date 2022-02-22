@@ -1,0 +1,10 @@
+Basically adding the line:
+X-GNOME-Autostart-enabled=false
+
+To the files:
+/etc/xdg/autostart/spice-vdagent.desktop
+/usr/share/gdm/autostart/LoginWindow/spice-vdagent.desktop
+
+Then stop and disable the service:
+$ sudo systemctl stop spice-vdagentd
+$ sudo systemctl disable spice-vdagentd

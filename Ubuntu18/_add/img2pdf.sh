@@ -1,0 +1,1 @@
+img2pdf *.jpg -o out.pdf -S A4
