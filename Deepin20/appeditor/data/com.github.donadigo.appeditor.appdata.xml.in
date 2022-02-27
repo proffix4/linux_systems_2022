@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (c) 2017 Adam Bieńkowski (https://github.com/donadigo/appeditor) -->
+<component type="desktop">
+  <id>com.github.donadigo.appeditor.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>AppEditor</name>
+  <summary>Edit application menu</summary>
+  <description>
+    <p>
+      Edit application entries shown in application menu and their properties.
+    </p>
+    <p>Features include:</p>
+    <ul>
+      <li>Hide and show applications from the application menu</li>
+      <li>Create new application entries</li>
+      <li>Change application's display name, icon and more</li>
+    </ul>
+  </description>
+  <provides>
+    <binary>com.github.donadigo.appeditor</binary>
+  </provides>
+  <developer_name>Adam Bieńkowski</developer_name>
+  <url type="homepage">https://github.com/donadigo/appeditor</url>
+  <url type="bugtracker">https://github.com/donadigo/appeditor/issues</url>
+  <url type="help">https://github.com/donadigo/appeditor</url>
+  <update_contact>donadigos159@gmail.com</update_contact>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/donadigo/appeditor/master/Screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="1.1.1" date="2020-04-17">
+      <description>
+        <p>This release includes translation updates:</p>
+        <ul>
+          <li>Dutch translation (Heimen Stoffels)</li>
+          <li>Spanish, Catalan translation (Adolfo Jayme-Barrientos)</li>
+          <li>Japanese translation (Ryo Nakano)</li>
+          <li>French translation (Nathan Bonnemains, dabou)</li>
+          <li>Turkish translation (Serdar Sağlam)</li>
+          <li>Russian translation (Camellan)</li>
+          <li>Lithuanian translation (welaq)</li>
+          <li>Italian translation</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.1.0" date="2018-08-11">
+      <description>
+        <p>This release includes added support for elementary OS Juno, miscellaneous improvements and new translations:</p>
+          <ul>
+            <li>German translation (ChristianPauly)</li>
+            <li>Japanese translation (Ryo Nakano)</li>
+            <li>Brazilian Portuguese translation (Filipe de Almeida Garrett)</li>
+          </ul>
+        <p>New features:</p>
+          <ul>
+            <li>It is now possible to create a menu entry directly from the file manager: right click on an executable file and choose "Create a Menu Entry"</li>
+            <li>New shortcuts added:</li>
+            <li>Ctrl+N: Create a new menu entry</li>
+            <li>Ctrl+F: Focus the search entry</li>
+            <li>Ctrl+D: Duplicate selected entry</li>
+          </ul>
+        <p>Fixed:</p>
+          <ul>
+            <li>Some strings are not displayed in translated languages (Ryo Nakano)</li>
+            <li>Improper escaping of special characters in display name and description</li>
+          </ul>
+      </description>
+    </release>
+    <release version="1.0.0" date="2018-01-15">
+      <description>
+        <p>This release contains many new features and bug fixes as well as added suport for translations:</p>
+        <ul>
+          <li>French translation (dabou)</li>
+          <li>Russian translation (Cammelan)</li>
+          <li>Spanish translation (Juan Gómez Carrillo)</li>
+        </ul>
+        <p>New features:</p>
+          <ul>
+            <li>Added a button to duplicate a specifc application entry</li>
+            <li>New "Advanced" section: add a new "Uses Notitifications" key</li>
+          </ul>
+        <p>Fixed:</p>
+          <ul>
+            <li>Fixed crashes when saving an entry with an equal sign in it's command line property</li>
+            <li>Sometimes deleting a local entry would cause it to stay in the sidebar until the next launch</li>
+            <li>Sometimes creating a new entry caused a crash</li>
+            <li>The page would not update after saving the entry</li>
+          </ul>
+        <p>Miscellaneous:</p>
+          <ul>
+            <li>Save unsaved entries when quitting the application</li>
+            <li>Clear the search entry when creating a new application entry</li>
+          </ul>
+      </description>
+    </release>
+    <release version="0.9.3" date="2017-08-20">
+      <description>
+        <p>New features:</p>
+          <ul>
+            <li>Added a button to open the entry in a text editor</li>
+            <li>Added a switch to show hidden entries (disabled by default)</li>
+          </ul>
+        <p>Miscellaneous:</p>
+          <ul>
+            <li>Fixed some applications like Inkscape not saving their name properly</li>
+            <li>The main window can be now maximized</li>
+          </ul>
+      </description>
+    </release>
+    <release version="0.9.2" date="2017-08-15">
+      <description>
+        <p>Add meson dependency to debian packaging</p>
+      </description>
+    </release>
+    <release version="0.9.1" date="2017-08-15">
+      <description>
+        <p>Fix debian packaging</p>
+      </description>
+    </release>
+    <release version="0.9.0" date="2017-08-15">
+      <description>
+        <p>Initial release</p>
+      </description>
+    </release>
+  </releases>
+
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+
+  <custom>
+    <value key="x-appcenter-color-primary">#32e3ca</value>
+    <value key="x-appcenter-color-primary-text">#0A332D</value>
+    <value key="x-appcenter-suggested-price">5</value>
+  </custom>
+</component>

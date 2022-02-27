@@ -1,0 +1,544 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.donadigo.appeditor package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.donadigo.appeditor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-15 22:50+0200\n"
+"PO-Revision-Date: 2019-11-03 12:46+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Language-Team: Dutch <vistausss@outlook.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:7
+#: data/com.github.donadigo.appeditor.desktop.in:4 src/Constants.vala:21
+msgid "AppEditor"
+msgstr "Toepassingsbewerker"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:8
+msgid "Edit application menu"
+msgstr "Toepassingenmenu bewerken"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:10
+msgid ""
+"Edit application entries shown in application menu and their properties."
+msgstr ""
+"Bewerk menu-items uit het toepassingenmenu, inclusief hun eigenschappen."
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:13
+msgid "Features include:"
+msgstr "Het bevat de volgende mogelijkheden:"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:15
+msgid "Hide and show applications from the application menu"
+msgstr "Toon en verberg items uit het toepassingenmenu"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:16
+msgid "Create new application entries"
+msgstr "Maak nieuwe menu-items"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:17
+msgid "Change application's display name, icon and more"
+msgstr "Pas de weergavenaam, het pictogram en meer aan"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:23
+msgid "Adam Bieńkowski"
+msgstr "Adam Bieńkowski"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:36
+msgid ""
+"This release includes added support for elementary OS Juno, miscellaneous "
+"improvements and new translations:"
+msgstr ""
+"Deze versie bevat ondersteuning voor elementary OS Juno, verscheidene "
+"verbeteringen en nieuwe vertalingen:"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:38
+msgid "German translation (ChristianPauly)"
+msgstr "Duitse vertaling, met dank aan @ChristianPauly"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:39
+msgid "Japanese translation (Ryo Nakano)"
+msgstr "Japanse vertaling, met dank aan @ryonakano"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:40
+msgid "Brazilian Portuguese translation (Filipe de Almeida Garrett)"
+msgstr ""
+"Braziliaans-Portugese vertaling, met dank aan Filipe de Almeida Garrett"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:42
+#: data/com.github.donadigo.appeditor.appdata.xml.in:65
+#: data/com.github.donadigo.appeditor.appdata.xml.in:86
+msgid "New features:"
+msgstr "Nieuwe mogelijkheden:"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:44
+msgid ""
+"It is now possible to create a menu entry directly from the file manager: "
+"right click on an executable file and choose \"Create a Menu Entry\""
+msgstr ""
+"Het is vanaf nu mogelijk om een menu-item te maken vanuit de "
+"bestandsbeheerder: rechtsklik op een uitvoerbaar bestand en kies 'Menu-item "
+"maken'"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:45
+msgid "New shortcuts added:"
+msgstr "Nieuwe sneltoetsen toegevoegd:"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:46
+msgid "Ctrl+N: Create a new menu entry"
+msgstr "Ctrl+N: maak een nieuw menu-item"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:47
+msgid "Ctrl+F: Focus the search entry"
+msgstr "Ctrl+F: focus het zoekvak"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:48
+msgid "Ctrl+D: Duplicate selected entry"
+msgstr "Ctrl+D: kloon het geselecteerde item"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:50
+#: data/com.github.donadigo.appeditor.appdata.xml.in:70
+msgid "Fixed:"
+msgstr "Opgelost:"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:52
+msgid "Some strings are not displayed in translated languages (Ryo Nakano)"
+msgstr ""
+"Sommige zinnen werden niet getoond in vertalingen, met dank aan Ryo Nakano"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:53
+msgid "Improper escaping of special characters in display name and description"
+msgstr ""
+"Speciale tekens werden niet goed getoond in de weergavenaam en omschrijving"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:59
+msgid ""
+"This release contains many new features and bug fixes as well as added "
+"suport for translations:"
+msgstr ""
+"Deze versie bevat vele nieuwe mogelijkheden, foutoplossingen en nieuwe "
+"vertalingen:"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:61
+msgid "French translation (dabou)"
+msgstr "Franse vertaling, met dank aan @dabou"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:62
+msgid "Russian translation (Cammelan)"
+msgstr "Russische vertaling, met dank aan @camellan"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:63
+msgid "Spanish translation (Juan Gómez Carrillo)"
+msgstr "Spaanse vertaling, met dank aan Filipe de Almeida Garrett"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:67
+msgid "Added a button to duplicate a specifc application entry"
+msgstr "Knop toegevoegd om een menu-item te klonen"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:68
+msgid "New \"Advanced\" section: add a new \"Uses Notitifications\" key"
+msgstr "Nieuwe sectie 'Geavanceerd': 'Meldingen gebruiken' toegevoegd"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:72
+msgid ""
+"Fixed crashes when saving an entry with an equal sign in it's command line "
+"property"
+msgstr ""
+"Crashes opgelost omtrent het opslaan van een item met een '='-teken in de "
+"opdracht"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:73
+msgid ""
+"Sometimes deleting a local entry would cause it to stay in the sidebar until "
+"the next launch"
+msgstr ""
+"Soms bleef een lokaal item zichtbaar in de zijbalk tot aan de volgende "
+"opstart"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:74
+msgid "Sometimes creating a new entry caused a crash"
+msgstr "Soms crashte de toepassing bij het maken van een nieuw item"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:75
+msgid "The page would not update after saving the entry"
+msgstr "De pagina werd niet bijgewerkt na het opslaan van een item"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:77
+#: data/com.github.donadigo.appeditor.appdata.xml.in:91
+msgid "Miscellaneous:"
+msgstr "Overig:"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:79
+msgid "Save unsaved entries when quitting the application"
+msgstr "Niet-opgeslagen items opslaan bij het afsluiten"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:80
+msgid "Clear the search entry when creating a new application entry"
+msgstr "Zoekvak leegmaken na het maken van een nieuw menu-item"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:88
+msgid "Added a button to open the entry in a text editor"
+msgstr "Knop toegevoegd om een item te openen in een tekstbewerker"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:89
+msgid "Added a switch to show hidden entries (disabled by default)"
+msgstr ""
+"Schakelaar toegevoegd om verborgen items te tonen (standaard uitgeschakeld)"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:93
+msgid "Fixed some applications like Inkscape not saving their name properly"
+msgstr "Fout opgelost omtrent het opslaan van sommige toepassingsnamen"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:94
+msgid "The main window can be now maximized"
+msgstr "Het hoofdvenster kan nu worden gemaximaliseerd"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:100
+msgid "Add meson dependency to debian packaging"
+msgstr "Meson-afhankelijkheid toegevoegd aan het Debian-pakket"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:105
+msgid "Fix debian packaging"
+msgstr "Debian-pakket gerepareerd"
+
+#: data/com.github.donadigo.appeditor.appdata.xml.in:110
+msgid "Initial release"
+msgstr "Initiële uitgave"
+
+#: data/com.github.donadigo.appeditor.desktop.in:5
+msgid "Application Entry Editor"
+msgstr "Menu-itembewerker"
+
+#: data/com.github.donadigo.appeditor.desktop.in:6
+msgid "Edit application entries"
+msgstr "Menu-items bewerken"
+
+#: data/com.github.donadigo.appeditor.desktop.in:7
+msgid "com.github.donadigo.appeditor"
+msgstr "com.github.donadigo.appeditor"
+
+#: data/com.github.donadigo.appeditor.desktop.in:12
+msgid "application;edit;entry;"
+msgstr "toepassing;bewerken;item;"
+
+#: src/AppInfoView.vala:114
+msgid "Display name"
+msgstr "Weergavenaam"
+
+#: src/AppInfoView.vala:121
+msgid "Comment"
+msgstr "Opmerking"
+
+#: src/AppInfoView.vala:137
+msgid "Show in Launcher"
+msgstr "Tonen in toepassingsstarter"
+
+#: src/AppInfoView.vala:138
+msgid "Category"
+msgstr "Categorie"
+
+#: src/AppInfoView.vala:140
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: src/AppInfoView.vala:147
+msgid "Program to execute along with it's arguments"
+msgstr "Het uit te voeren programma en evt. argumenten"
+
+#: src/AppInfoView.vala:153
+msgid "The working directory to run the program in"
+msgstr "De werkmap van het uit te voeren programma"
+
+#: src/AppInfoView.vala:159
+msgid "Command Line"
+msgstr "Opdrachtregel"
+
+#: src/AppInfoView.vala:160
+msgid "Working Directory"
+msgstr "Werkmap"
+
+#: src/AppInfoView.vala:161
+msgid "Launch in Terminal"
+msgstr "Opstarten in terminalvenster"
+
+#: src/AppInfoView.vala:163
+msgid "Launching"
+msgstr "Bezig met opstarten"
+
+#: src/AppInfoView.vala:171
+msgid "Uses Notifications"
+msgstr "Meldingen gebruiken"
+
+#: src/AppInfoView.vala:180
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: src/AppInfoView.vala:207
+msgid "Save"
+msgstr "Opslaan"
+
+#: src/AppInfoView.vala:212
+msgid "Open in Text Editor"
+msgstr "Openen in tekstbewerker"
+
+#: src/AppInfoView.vala:215
+msgid "Duplicate"
+msgstr "Klonen"
+
+#: src/AppInfoView.vala:285
+msgid "Changes successfully saved"
+msgstr "De wijzigingen zijn opgeslagen"
+
+#: src/AppInfoView.vala:289
+#, c-format
+msgid "Something went wrong and the changes could not be saved: %s"
+msgstr "Er is iets misgegaan waardoor de wijzigingen niet zijn opgeslagen: %s"
+
+#: src/AppInfoView.vala:326
+msgid "No visible title in the applications menu"
+msgstr "Geen zichtbare titel in het toepassingenmenu"
+
+#: src/AppInfoView.vala:341
+msgid "No program will be launched"
+msgstr "Er wordt geen programma uitgevoerd"
+
+#: src/AppInfoView.vala:345
+msgid "The executable name (first argument) cannot contain the equal sign"
+msgstr ""
+"De naam van het uitvoerbare bestand (eerste argument) mag niet het teken = "
+"gebruiken"
+
+#: src/AppInfoView.vala:351
+msgid "Entered file does not exist"
+msgstr "Het opgegeven bestand bestaat niet"
+
+#: src/AppInfoView.vala:357
+msgid "Entered program was not found"
+msgstr "Het opgegeven programma is niet aangetroffen"
+
+#: src/AppInfoView.vala:379
+msgid "Do You Want to Delete This Entry?"
+msgstr "Wil je dit item verwijderen?"
+
+#: src/AppInfoView.vala:380
+msgid ""
+"Deleting this entry is permanent and cannot be undone. This does not delete "
+"the application itself, only the entry shown in the applications menu."
+msgstr ""
+"Verwijderen is permanent en kan dus niet ongedaan worden gemaakt. Dit "
+"verwijdert niet de toepassing zelf, maar alleen het menu-item."
+
+#: src/AppInfoView.vala:381
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: src/AppInfoView.vala:383
+msgid "Do You Want to Restore The Defaults?"
+msgstr "Wil je de standaardwaarden herstellen?"
+
+#: src/AppInfoView.vala:384
+msgid "Restoring defaults will undo all the changes done to this entry."
+msgstr "Hierdoor worden alle aangebrachte wijzigingen ongedaan gemaakt."
+
+#: src/AppInfoView.vala:385
+msgid "Restore defaults"
+msgstr "Standaardwaarden"
+
+#: src/AppInfoView.vala:392 src/IconChooserDialog.vala:29
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: src/AppInfoView.vala:425
+msgid "Could Not Open This Entry"
+msgstr "Dit item kan niet worden geopend"
+
+#: src/AppInfoView.vala:453
+msgid "Delete entry…"
+msgstr "Item verwijderen…"
+
+#: src/AppInfoView.vala:455
+msgid "Restore defaults…"
+msgstr "Standaardwaarden…"
+
+#: src/AppInfoViewSaver.vala:32
+msgid "New Application"
+msgstr "Nieuwe toepassing"
+
+#: src/AppInfoViewSaver.vala:148
+msgid "Could not load the newly saved file."
+msgstr "Het nieuwe opgeslagen bestand kan niet worden geopend."
+
+#: src/AppInfoViewStack.vala:29
+msgid "No Item Selected"
+msgstr "Geen item geselecteerd"
+
+#: src/AppInfoViewStack.vala:29
+msgid "Select an application or start typing to edit one"
+msgstr "Selecteer een toepassing of begin met typen om te bewerken"
+
+#: src/AppItem.vala:35
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: src/Application.vala:63
+#, c-format
+msgid "Could not Find \"%s\""
+msgstr "Kan '%s' niet klonen"
+
+#: src/Application.vala:63
+msgid "Could not Find Requested File"
+msgstr "Kan het opgevraagde bestand niet vinden"
+
+#: src/Application.vala:64
+#, c-format
+msgid "File <b>\"%s\"</b> does not exist."
+msgstr "Het bestand, <b>%s</b>, bestaat niet."
+
+#: src/Application.vala:79
+#, c-format
+msgid "Could Not Create a New Application Entry from \"%s\""
+msgstr "Kan geen menu-item maken voor '%s'"
+
+#: src/Application.vala:80
+msgid "Could Not Create a New Application From Requested File"
+msgstr "Kan geen menu-item maken voor het opgevraagde bestand"
+
+#: src/DesktopAppManager.vala:56
+msgid "Sound & Video"
+msgstr "Audio en video"
+
+#: src/DesktopAppManager.vala:57
+msgid "Sound"
+msgstr "Audio"
+
+#: src/DesktopAppManager.vala:58
+msgid "Video"
+msgstr "Video"
+
+#: src/DesktopAppManager.vala:59
+msgid "Programming"
+msgstr "Programmeren"
+
+#: src/DesktopAppManager.vala:60
+msgid "Education"
+msgstr "Educatie"
+
+#: src/DesktopAppManager.vala:61
+msgid "Games"
+msgstr "Spellen"
+
+#: src/DesktopAppManager.vala:62
+msgid "Graphics"
+msgstr "Grafisch"
+
+#: src/DesktopAppManager.vala:63
+msgid "Internet"
+msgstr "Internet"
+
+#: src/DesktopAppManager.vala:64
+msgid "Office"
+msgstr "Kantoor"
+
+#: src/DesktopAppManager.vala:65
+msgid "Science"
+msgstr "Wetenschap"
+
+#: src/DesktopAppManager.vala:66
+msgid "Settings"
+msgstr "Instellingen"
+
+#: src/DesktopAppManager.vala:67
+msgid "System Tools"
+msgstr "Systeemhulpmiddelen"
+
+#: src/DesktopAppManager.vala:68
+msgid "Accessories"
+msgstr "Accessoires"
+
+#: src/DesktopAppManager.vala:69
+msgid "Other"
+msgstr "Overig"
+
+#: src/IconButton.vala:82
+msgid "Icon name or path to an image"
+msgstr "Pictogramnaam of pad naar een afbeelding"
+
+#: src/IconButton.vala:86
+msgid "Choose from file"
+msgstr "Kiezen uit bestand"
+
+#: src/IconButton.vala:90
+msgid "Choose from available icons"
+msgstr "Kiezen uit beschikbare pictogrammen"
+
+#: src/IconButton.vala:103
+msgid "All Files"
+msgstr "Alle bestanden"
+
+#: src/IconButton.vala:107
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: src/IconButton.vala:111
+msgid "Select an image"
+msgstr "Kies een afbeelding"
+
+#: src/IconChooserDialog.vala:31
+msgid "Choose"
+msgstr "Kiezen"
+
+#: src/IconChooserDialog.vala:45
+msgid "Search icons…"
+msgstr "Pictogrammen doorzoeken…"
+
+#: src/IconChooserDialog.vala:59
+msgid "Choose an icon from the list"
+msgstr "Kies een pictogram uit de lijst"
+
+#: src/MainWindow.vala:86
+msgid "Show hidden entries"
+msgstr "Verborgen items tonen"
+
+#: src/MainWindow.vala:130
+msgid "No Applications Found"
+msgstr "Geen toepassingen aangetroffen"
+
+#: src/MainWindow.vala:130
+msgid "Could not find any applications to edit on this system"
+msgstr "Kan geen te bewerken toepassingen vinden op dit systeem"
+
+#: src/MainWindow.vala:131
+msgid "Retry"
+msgstr "Opnieuw"
+
+#: src/MainWindow.vala:151
+msgid "Find…"
+msgstr "Zoeken…"
+
+#: src/MainWindow.vala:159
+msgid "New entry"
+msgstr "Nieuw item"
+
+#: src/MainWindow.vala:333
+#, c-format
+msgid "Could Not Duplicate %s"
+msgstr "Kan '%s' niet klonen"
+
+#: src/MainWindow.vala:358
+msgid "Could Not Create a New Application Entry"
+msgstr "Kan geen menu-item maken"
+
+#~ msgid "translator-credits"
+#~ msgstr "Heimen Stoffels"
+
+#~ msgid "Close"
+#~ msgstr "Sluiten"
