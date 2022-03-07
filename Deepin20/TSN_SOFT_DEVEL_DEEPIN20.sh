@@ -18,10 +18,12 @@ sudo apt install pyqt5-dev-tools libgtk-3-dev -y
 sudo apt-get install python3-dev -y
 sudo apt-get install libjpeg62-turbo-dev -y
 sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev wget libbz2-dev -y
-pip3 install setuptools numpy pandas openpyxl xlrd
-pip3 install python-docx XlsxWriter openpyxl ebooklib pykson bs4
-pip3 install pyinstaller Pillow
-pip3 install wxPython
+python3 -m pip install --user --upgrade pip
+python3 -m pip install setuptools numpy pandas openpyxl xlrd
+python3 -m pip install python-docx XlsxWriter openpyxl ebooklib pykson bs4
+python3 -m pip install pyinstaller Pillow
+python3 -m pip install wxPython
 
-pip3 install PyQtWebEngine
-pip3 install PyQt5-sip --upgrade
+python3 -m pip install PyQtWebEngine
+python3 -m pip install PyQt5-sip --upgrade
+

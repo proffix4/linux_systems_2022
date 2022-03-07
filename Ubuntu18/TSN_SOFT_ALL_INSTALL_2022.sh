@@ -4,7 +4,7 @@ sudo apt install git -y
 git config --global user.name "proffix4"
 git config --global user.email "proffix4@gmail.com"
 
-sudo apt install gawk m4 libwxgtk3.0-dev libpcre2-dev libxerces-c-dev libspdlog-dev libuchardet-dev libssh-dev libssl-dev  libsmbclient-dev libnfs-dev libneon27-dev libarchive-dev cmake g++ -y
+sudo apt install gawk m4 libwxgtk3.0-dev libpcre2-dev libxerces-c-dev libspdlog-dev libuchardet-dev libssh-dev libssl-dev libsmbclient-dev libnfs-dev libneon27-dev libarchive-dev cmake g++ -y
 git clone https://github.com/elfmz/far2l
 cd far2l
 mkdir build
@@ -76,5 +76,7 @@ sudo apt-get update
 sudo apt install cryptomator -y
 
 sudo apt install libcanberra-gtk-module -y
+
+sudo apt install curl checkinstall -y
 
 sudo apt autoremove -y

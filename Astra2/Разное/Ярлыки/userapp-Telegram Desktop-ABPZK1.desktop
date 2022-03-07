@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+NoDisplay=true
+Exec=/opt/telegram/Telegram -workdir /home/tsn/.local/share/TelegramDesktop/ -- %u
+Name=Telegram Desktop
+Comment=Особое определение для Telegram Desktop

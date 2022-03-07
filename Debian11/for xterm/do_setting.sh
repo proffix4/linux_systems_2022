@@ -1,3 +1,4 @@
+#!/bin/sh
 cp _.Xresources ~/.Xresources
 #	Чтобы перечитать ваш файл .Xresources, и удалить старые ресурсы:
 xrdb ~/.Xresources

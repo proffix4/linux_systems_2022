@@ -1,4 +1,0 @@
-https://github.com/donadigo/appeditor
-
-com.github.donadigo.appeditor
-

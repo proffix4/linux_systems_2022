@@ -1,7 +1,8 @@
 Dash to Dock (by michele_g) - красивая нижняя панель!
 Appfolders Management extension (by Maestroschan) - ПАПКИ В МЕНЮ !!!
 AppIndicator and KStatusNotifierItem Support (by 3v1n0) - поддержка значков в трее
-TopIconsFix (by aleskva)  - поддержка трея для старых программ (wine)
+TopIcons Plus (by phocean) - поддержка трея для старых программ (wine)
+-TopIconsFix (by aleskva)  - поддержка трея для старых программ (wine)
 NoAnnoyance (by sindex) - удаляет уведомление «Окно готово»
 Alt + Tab only on current workspace (by ErmesonS) - переключает окна без группировки, с возможностью показывать приложения только текущей области
 Remove Alt+Tab Delay v2 (by bjoerndaase) - убирает задержку при нажатии Alt+Tab 
